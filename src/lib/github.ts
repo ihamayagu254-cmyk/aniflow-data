@@ -19,11 +19,17 @@ const GITHUB_API = 'https://api.github.com'
 const FILE_PATH = 'data/animes.json'
 
 // Configuração lida das variáveis de ambiente
-const config = {
-  token: process.env.GITHUB_TOKEN!,
-  owner: process.env.GITHUB_OWNER!,
-  repo: process.env.GITHUB_REPO!,
-  branch: process.env.GITHUB_BRANCH || 'main',
+function getConfig() {
+  const token = process.env.GITHUB_TOKEN
+  const owner = process.env.GITHUB_OWNER
+  const repo = process.env.GITHUB_REPO
+  const branch = process.env.GITHUB_BRANCH || 'main'
+
+  if (!token || !owner || !repo) {
+    throw new Error('Variáveis do GitHub não configuradas')
+  }
+
+  return { token, owner, repo, branch }
 }
 
 // Headers padrão para todas as requisições
