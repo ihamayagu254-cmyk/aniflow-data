@@ -19,10 +19,17 @@
           "video_url": "https://drive.google.com/file/d/1lXUREv9ZzTUhbswtGDWqQkgTaT6bj222/preview",
           "duracao": "",
           "thumbnail": ""
+        },
+        {
+          "numero": 2,
+          "titulo": "Jujutsu Picanha EP 2",
+          "video_url": "https://drive.google.com/file/d/1xg91tafXS74O2v8GmRVRFURXZMM0j06p/preview",
+          "duracao": "1",
+          "thumbnail": ""
         }
       ],
       "createdAt": "2026-03-25T00:57:44.504Z",
-      "updatedAt": "2026-03-25T00:57:44.504Z"
+      "updatedAt": "2026-03-25T01:00:50.174Z"
     }
   ],
   "comments": []
