@@ -33,10 +33,17 @@
           "video_url": "https://drive.google.com/file/d/1xg91tafXS74O2v8GmRVRFURXZMM0j06p/preview",
           "duracao": "",
           "thumbnail": ""
+        },
+        {
+          "numero": 4,
+          "titulo": "Jujutsu Picanha EP 4",
+          "video_url": "https://drive.google.com/file/d/15ULU9Ifk-cef2g-168N3Ke8iFewaB6Wd/preview",
+          "duracao": "",
+          "thumbnail": ""
         }
       ],
       "createdAt": "2026-03-25T00:57:44.504Z",
-      "updatedAt": "2026-03-25T01:01:49.529Z"
+      "updatedAt": "2026-03-25T01:02:13.774Z"
     }
   ],
   "comments": []
