@@ -35,7 +35,9 @@ function getConfig() {
 // Headers padrão para todas as requisições
 function getHeaders() {
   return {
-    'Authorization': `Bearer ${config.token}`,
+  const config = getConfig()
+
+Authorization: `Bearer ${config.token}`
     'Accept': 'application/vnd.github.v3+json',
     'Content-Type': 'application/json',
     'X-GitHub-Api-Version': '2022-11-28',
