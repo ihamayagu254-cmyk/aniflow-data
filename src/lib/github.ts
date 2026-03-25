@@ -26,7 +26,7 @@ function getConfig() {
   const branch = process.env.GITHUB_BRANCH || 'main'
 
   if (!token || !owner || !repo) {
-    throw new Error('Variáveis do GitHub não configuradas')
+    throw new Error('GitHub ENV não configurado')
   }
 
   return { token, owner, repo, branch }
