@@ -1,3 +1,4 @@
+export const dynamic = 'force-dynamic'
 import { readDB } from '@/lib/github'
 import Navbar from '@/components/layout/Navbar'
 import Footer from '@/components/layout/Footer'
