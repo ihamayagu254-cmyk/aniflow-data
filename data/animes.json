@@ -1,4 +1,29 @@
 {
-  "animes": [],
+  "animes": [
+    {
+      "id": "mn5c3qk87debdr9mbb3",
+      "titulo": "Jujutsu Kaisen",
+      "descricao": "Jujutsu Kaisen",
+      "capa": "https://media.discordapp.net/attachments/1481812638714433567/1486133610091249746/image0.png?ex=69c46547&is=69c313c7&hm=f2247b9fa7e483a39e90742978ecc5b973be8b92addff86ccdc906aa247fb0b8&=&format=webp&quality=lossless",
+      "banner": "https://media.discordapp.net/attachments/1481812638714433567/1486133610091249746/image0.png?ex=69c46547&is=69c313c7&hm=f2247b9fa7e483a39e90742978ecc5b973be8b92addff86ccdc906aa247fb0b8&=&format=webp&quality=lossless",
+      "generos": [
+        "ação"
+      ],
+      "status": "Em lançamento",
+      "ano": 2026,
+      "nota": 0,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Jujutsu Kaisen EP 1",
+          "video_url": "https://drive.google.com/file/d/1lXUREv9ZzTUhbswtGDWqQkgTaT6bj222/preview",
+          "duracao": "",
+          "thumbnail": ""
+        }
+      ],
+      "createdAt": "2026-03-25T00:57:44.504Z",
+      "updatedAt": "2026-03-25T00:57:44.504Z"
+    }
+  ],
   "comments": []
 }
