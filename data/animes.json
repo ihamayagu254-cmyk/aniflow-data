@@ -1,6 +1,921 @@
 {
   "animes": [
     {
+      "id": "mnduv6wxmldakf16zrn",
+      "mal_id": 11061,
+      "titulo": "Hunter x Hunter (2011)",
+      "titulo_japones": "HUNTER×HUNTER（ハンター×ハンター）",
+      "descricao": "Hunters devote themselves to accomplishing hazardous tasks, all from traversing the world's uncharted territories to locating rare items and monsters. Before becoming a Hunter, one must pass the Hunter Examination—a high-risk selection process in which most applicants end up handicapped or worse, deceased.\n\nAmbitious participants who challenge the notorious exam carry their own reason. What drives 12-year-old Gon Freecss is finding Ging, his father and a Hunter himself. Believing that he will meet his father by becoming a Hunter, Gon takes the first step to walk the same path.\n\nDuring the Hunter Examination, Gon befriends the medical student Leorio Paladiknight, the vindictive Kurapika, and ex-assassin Killua Zoldyck. While their motives vastly differ from each other, they band together for a common goal and begin to venture into a perilous world.\n\n[Written by MAL Rewrite]",
+      "capa": "https://myanimelist.net/images/anime/1337/99013l.webp",
+      "banner": "https://myanimelist.net/images/anime/1337/99013l.jpg",
+      "generos": [
+        "ação",
+        "aventura",
+        "fantasia"
+      ],
+      "status": "Completo",
+      "ano": 2011,
+      "nota": 9.03,
+      "tipo": "TV",
+      "studios": [
+        "Madhouse"
+      ],
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Tabidachi × to × Nakama-tachi ",
+          "aired": "2011-10-02T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 2,
+          "titulo": "Shiken × no × Shiken ",
+          "aired": "2011-10-09T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 3,
+          "titulo": "Rival × ga × Survival ",
+          "aired": "2011-10-16T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 4,
+          "titulo": "Kibou × to × Yabou ",
+          "aired": "2011-10-23T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 5,
+          "titulo": "Hisoka × wa × Hisoka ",
+          "aired": "2011-10-30T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 6,
+          "titulo": "Igai × na × Kadai ",
+          "aired": "2011-11-06T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 7,
+          "titulo": "Hikousen × no × Kessen ",
+          "aired": "2011-11-13T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 8,
+          "titulo": "Kaiketsu × wa × Tasuuketsu? ",
+          "aired": "2011-11-20T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 9,
+          "titulo": "Shuujin × ni × Goyoujin ",
+          "aired": "2011-11-27T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 10,
+          "titulo": "Hikkake × no × Kikkake ",
+          "aired": "2011-12-04T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 11,
+          "titulo": "Gamble × de × Trouble ",
+          "aired": "2011-12-11T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 12,
+          "titulo": "Saigo × no × Kakugo ",
+          "aired": "2011-12-18T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 13,
+          "titulo": "Gon yori × no × Tayori ",
+          "aired": "2011-12-25T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 14,
+          "titulo": "Target × ni × Hit ",
+          "aired": "2012-01-08T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 15,
+          "titulo": "Damashiai × no × Toriai ",
+          "aired": "2012-01-15T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 16,
+          "titulo": "Haiboku × to × Kutsujoku ",
+          "aired": "2012-01-22T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 17,
+          "titulo": "Ana × de × Wana ",
+          "aired": "2012-01-29T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 18,
+          "titulo": "Taisetsu × na × Mensetsu ",
+          "aired": "2012-02-05T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 19,
+          "titulo": "Katenai × ga × Makenai ",
+          "aired": "2012-02-12T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 20,
+          "titulo": "Fukakai × na × Tenkai ",
+          "aired": "2012-02-19T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 21,
+          "titulo": "Kyoudai × no × Mondai ",
+          "aired": "2012-03-04T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 22,
+          "titulo": "Kiken × na × Banken ",
+          "aired": "2012-03-11T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 23,
+          "titulo": "Bannin × no × Sekinin ",
+          "aired": "2012-03-18T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 24,
+          "titulo": "Zoldyck × no × Kazoku ",
+          "aired": "2012-03-25T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 25,
+          "titulo": "Mienai × to × Aenai ",
+          "aired": "2012-04-01T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 26,
+          "titulo": "Arekara × to × Sorekara ",
+          "aired": "2012-04-08T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 27,
+          "titulo": "Tougijou × ni × Toujou ",
+          "aired": "2012-04-15T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 28,
+          "titulo": "Nen × to × Nen ",
+          "aired": "2012-04-22T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 29,
+          "titulo": "Kakusei × to × Kanousei ",
+          "aired": "2012-04-29T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 30,
+          "titulo": "Gekitou × to × Kattou ",
+          "aired": "2012-05-06T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 31,
+          "titulo": "Innen × to × Shuunen ",
+          "aired": "2012-05-13T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 32,
+          "titulo": "Dokkiri × na × Shouri ",
+          "aired": "2012-05-20T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 33,
+          "titulo": "Keihaku × na × Kyouhaku ",
+          "aired": "2012-05-27T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 34,
+          "titulo": "Jitsuryoku × de × Setsujoku ",
+          "aired": "2012-06-03T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 35,
+          "titulo": "Seikaku × na × Goukaku ",
+          "aired": "2012-06-17T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 36,
+          "titulo": "Ooki na Kari × to × Chiisa na Keri ",
+          "aired": "2012-06-22T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 37,
+          "titulo": "Ging × to × Gon ",
+          "aired": "2012-06-29T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 38,
+          "titulo": "Oyaji × no × Henji ",
+          "aired": "2012-07-07T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 39,
+          "titulo": "Negai × to × Chikai ",
+          "aired": "2012-07-14T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 40,
+          "titulo": "Nouryokusha × wa × Kyouryokusha? ",
+          "aired": "2012-07-22T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 41,
+          "titulo": "Gouketsu × no × Shuuketsu ",
+          "aired": "2012-07-29T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 42,
+          "titulo": "Mamoru × to × Semeru ",
+          "aired": "2012-08-05T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 43,
+          "titulo": "Shougeki × no × Sangeki ",
+          "aired": "2012-08-12T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 44,
+          "titulo": "Gekisen × no × Fukusen ",
+          "aired": "2012-08-19T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 45,
+          "titulo": "Kousoku × no × Yakusoku ",
+          "aired": "2012-09-02T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 46,
+          "titulo": "Oumono × to × Matsumono ",
+          "aired": "2012-09-09T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 47,
+          "titulo": "Seiyaku × to × Seiyaku ",
+          "aired": "2012-09-16T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 48,
+          "titulo": "Mekiki × no × Kikime ",
+          "aired": "2012-09-23T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 49,
+          "titulo": "Tsuiseki × de × Bunseki ",
+          "aired": "2012-09-30T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 50,
+          "titulo": "Nakama × to × Katana ",
+          "aired": "2012-10-07T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 51,
+          "titulo": "Hijou × no × Senjou ",
+          "aired": "2012-10-14T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 52,
+          "titulo": "Shuugeki × to × Shougeki ",
+          "aired": "2012-10-21T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 53,
+          "titulo": "Fake × de × Psyche ",
+          "aired": "2012-10-28T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 54,
+          "titulo": "Uranai × ga × Ataranai? ",
+          "aired": "2012-11-04T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 55,
+          "titulo": "Nakama × to × Ikasama ",
+          "aired": "2012-11-11T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 56,
+          "titulo": "Saiai × to × Saiaku ",
+          "aired": "2012-11-18T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 57,
+          "titulo": "Sente × to × Okite ",
+          "aired": "2012-12-02T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 58,
+          "titulo": "Hikigiwa × no × Hikigane ",
+          "aired": "2012-12-09T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 59,
+          "titulo": "Seri × to × Aseri ",
+          "aired": "2012-12-16T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 60,
+          "titulo": "Kimari × to × Hajimari ",
+          "aired": "2012-12-23T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 61,
+          "titulo": "Kanyuu × to × Shinyuu ",
+          "aired": "2013-01-06T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 62,
+          "titulo": "Genjitsu? × to × Genseki ",
+          "aired": "2013-01-13T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 63,
+          "titulo": "Shishou × wa × Hijou? ",
+          "aired": "2013-01-20T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 64,
+          "titulo": "Kyouka × to × Kyoukatsu ",
+          "aired": "2013-01-27T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 65,
+          "titulo": "Jaken × to × Janken ",
+          "aired": "2013-02-03T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 66,
+          "titulo": "Kouryaku × to × Sakuryaku ",
+          "aired": "2013-02-10T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 67,
+          "titulo": "15 × to × 15 ",
+          "aired": "2013-02-17T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 68,
+          "titulo": "Kaizoku × to × Suisoku ",
+          "aired": "2013-02-24T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 69,
+          "titulo": "Taiketsu × de × Nekketsu ",
+          "aired": "2013-03-03T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 70,
+          "titulo": "Konjou × to × Yuujou ",
+          "aired": "2013-03-10T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 71,
+          "titulo": "Kakehiki × to × Torihiki ",
+          "aired": "2013-03-17T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 72,
+          "titulo": "Chase × de × Chance ",
+          "aired": "2013-03-24T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 73,
+          "titulo": "Kyouki × to × Shouki ",
+          "aired": "2013-03-31T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 74,
+          "titulo": "Shousha × to × Haisha ",
+          "aired": "2013-04-07T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 75,
+          "titulo": "Ging no Tomo × to × Shin no Tomo ",
+          "aired": "2013-04-14T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 76,
+          "titulo": "Saikai × to × Rikai ",
+          "aired": "2013-04-21T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 77,
+          "titulo": "Fuan × to × Shutsugen ",
+          "aired": "2013-04-28T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 78,
+          "titulo": "Kyuusoku × na × Zoushoku ",
+          "aired": "2013-05-05T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 79,
+          "titulo": "NG × na × NGL ",
+          "aired": "2013-05-12T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 80,
+          "titulo": "Gokuaku × to × Saiaku ",
+          "aired": "2013-05-19T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 81,
+          "titulo": "Tatakai × no × Kaishi ",
+          "aired": "2013-05-26T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 82,
+          "titulo": "Kite × no × Slot ",
+          "aired": "2013-06-02T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 83,
+          "titulo": "Kanka × Shite × Shinka ",
+          "aired": "2013-06-09T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 84,
+          "titulo": "Sadame × no × Mezame ",
+          "aired": "2013-06-16T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 85,
+          "titulo": "Hikari × to × Kage ",
+          "aired": "2013-06-23T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 86,
+          "titulo": "Chikai × to × Saikai ",
+          "aired": "2013-06-30T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 87,
+          "titulo": "Kettou × Shite × Tousou ",
+          "aired": "2013-07-07T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 88,
+          "titulo": "Janken × to × Jakuten ",
+          "aired": "2013-07-14T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 89,
+          "titulo": "Yasashisa × to × Tsuyosa ",
+          "aired": "2013-07-21T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 90,
+          "titulo": "Risoku × to × Jubaku ",
+          "aired": "2013-07-28T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 91,
+          "titulo": "Kyousha × to × Jakusha ",
+          "aired": "2013-08-04T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 92,
+          "titulo": "Hitotsu no Negai × to × Futatsu no Chikai ",
+          "aired": "2013-08-11T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 93,
+          "titulo": "Palm × to × Date ",
+          "aired": "2013-08-18T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 94,
+          "titulo": "Tomodachi × to × Tabidachi ",
+          "aired": "2013-09-01T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 95,
+          "titulo": "Urami × to × Sugomi ",
+          "aired": "2013-09-08T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 96,
+          "titulo": "Muhou × na × Home ",
+          "aired": "2013-09-15T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 97,
+          "titulo": "Gekitou × de × Gekimetsu ",
+          "aired": "2013-09-22T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 98,
+          "titulo": "Sennyuu × to × Senbetsu ",
+          "aired": "2013-09-29T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 99,
+          "titulo": "Combination × to × Evolution ",
+          "aired": "2013-10-09T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 100,
+          "titulo": "Tsuiseki × ni wa × Tsuigeki ",
+          "aired": "2013-10-16T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 101,
+          "titulo": "Ikalgo × to × Ikazuchi ",
+          "aired": "2013-10-23T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 102,
+          "titulo": "Nouryoku × to × Taikyoku ",
+          "aired": "2013-10-30T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 103,
+          "titulo": "Tsumi × to × Yomi ",
+          "aired": "2013-11-06T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 104,
+          "titulo": "Mayoi × to × Tomadoi ",
+          "aired": "2013-11-13T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 105,
+          "titulo": "Kakugo × to × Kakusei ",
+          "aired": "2013-11-20T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 106,
+          "titulo": "Knov × to × Morel ",
+          "aired": "2013-11-27T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 107,
+          "titulo": "Return × to × Retire ",
+          "aired": "2013-12-04T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 108,
+          "titulo": "Komugi × no × Gungi ",
+          "aired": "2013-12-11T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 109,
+          "titulo": "Koushin Kaishi × de × Koudou Kaishi ",
+          "aired": "2013-12-18T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 110,
+          "titulo": "Konwaku × to × Omowaku ",
+          "aired": "2013-12-25T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 111,
+          "titulo": "Totsunyuu × Shite × Shinnyuu ",
+          "aired": "2014-01-08T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 112,
+          "titulo": "Kaibutsu × to × Kaibutsu ",
+          "aired": "2014-01-15T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 113,
+          "titulo": "Mushi × Dakedo × Kashi ",
+          "aired": "2014-01-22T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 114,
+          "titulo": "Bundan × to × Gosan ",
+          "aired": "2014-01-29T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 115,
+          "titulo": "Gimu × to × Gimon ",
+          "aired": "2014-02-05T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 116,
+          "titulo": "Fukushuu × to × Shuufuku ",
+          "aired": "2014-02-12T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 117,
+          "titulo": "Bujoku × ni wa × Setsujoku ",
+          "aired": "2014-02-19T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 118,
+          "titulo": "Itsuwari × no × Ikari ",
+          "aired": "2014-02-26T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 119,
+          "titulo": "Tsuyo × Ika × Yowa × Ika ",
+          "aired": "2014-03-05T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 120,
+          "titulo": "Nisemono × to × Honmono ",
+          "aired": "2014-03-12T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 121,
+          "titulo": "Haiboku × to × Menboku ",
+          "aired": "2014-03-19T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 122,
+          "titulo": "Tatemae × to × Namae ",
+          "aired": "2014-03-26T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 123,
+          "titulo": "Mukade × to × Omoide ",
+          "aired": "2014-04-02T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 124,
+          "titulo": "Kekkai × to × Kakusei ",
+          "aired": "2014-04-09T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 125,
+          "titulo": "Bu no Tsuyomi × to × Bu no Kiwami ",
+          "aired": "2014-04-16T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 126,
+          "titulo": "Zero × to × Rose ",
+          "aired": "2014-04-23T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 127,
+          "titulo": "Tekii × to × Ketsui ",
+          "aired": "2014-04-30T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 128,
+          "titulo": "Mujou no Yorokobi × to × Mushou no Ai ",
+          "aired": "2014-05-07T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 129,
+          "titulo": "Hyouteki × to × Mokuteki ",
+          "aired": "2014-05-14T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 130,
+          "titulo": "Mahou × te × Zetsubou ",
+          "aired": "2014-05-21T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 131,
+          "titulo": "Ikari × to × Hikari ",
+          "aired": "2014-05-28T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 132,
+          "titulo": "Senkou × to × Hatsudou ",
+          "aired": "2014-06-04T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 133,
+          "titulo": "Seizon × no × Kigen ",
+          "aired": "2014-06-11T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 134,
+          "titulo": "Hito Koto × wa × Sono Hito ",
+          "aired": "2014-06-18T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 135,
+          "titulo": "Kono Hi × to × Kono Shunkan ",
+          "aired": "2014-06-25T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 136,
+          "titulo": "Kikyou × to × Honmyou ",
+          "aired": "2014-07-02T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 137,
+          "titulo": "Juuni-shin × de × Giron ",
+          "aired": "2014-07-09T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 138,
+          "titulo": "Onedari × to × Onegai ",
+          "aired": "2014-07-16T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 139,
+          "titulo": "Alluka × to × Nanika ",
+          "aired": "2014-07-23T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 140,
+          "titulo": "Sansen × to × Kaisen ",
+          "aired": "2014-07-30T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 141,
+          "titulo": "Tejinashi × to × Hitsuji ",
+          "aired": "2014-08-06T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 142,
+          "titulo": "Hari × to × Kari ",
+          "aired": "2014-08-13T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 143,
+          "titulo": "Tsumi × to × Tsume ",
+          "aired": "2014-08-20T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 144,
+          "titulo": "Kessai × to × Kassai ",
+          "aired": "2014-08-27T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 145,
+          "titulo": "Kanpai × to × Saikai ",
+          "aired": "2014-09-03T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 146,
+          "titulo": "Kaichou × to × Kaijo ",
+          "aired": "2014-09-10T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 147,
+          "titulo": "Sukui × to × Mirai ",
+          "aired": "2014-09-17T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 148,
+          "titulo": "Kore made × to × Kore kara ",
+          "aired": "2014-09-24T00:00:00+00:00",
+          "filler": false
+        }
+      ],
+      "totalEpisodios": 148,
+      "source": "jikan",
+      "createdAt": "2026-03-31T00:05:07.537Z",
+      "updatedAt": "2026-03-31T00:05:07.537Z"
+    },
+    {
       "id": "mn5c3qk87debdr9mbb3",
       "titulo": "Jujutsu Kaisen",
       "descricao": "Jujutsu Kaisen",
