@@ -1,6 +1,202 @@
 {
   "animes": [
     {
+      "id": "mndv6du2o3vn31zu6tm",
+      "mal_id": 52991,
+      "titulo": "Sousou no Frieren",
+      "titulo_japones": "葬送のフリーレン",
+      "descricao": "During their decade-long quest to defeat the Demon King, the members of the hero's party—Himmel himself, the priest Heiter, the dwarf warrior Eisen, and the elven mage Frieren—forge bonds through adventures and battles, creating unforgettable precious memories for most of them.\n\nHowever, the time that Frieren spends with her comrades is equivalent to merely a fraction of her life, which has lasted over a thousand years. When the party disbands after their victory, Frieren casually returns to her \"usual\" routine of collecting spells across the continent. Due to her different sense of time, she seemingly holds no strong feelings toward the experiences she went through.\n\nAs the years pass, Frieren gradually realizes how her days in the hero's party truly impacted her. Witnessing the deaths of two of her former companions, Frieren begins to regret having taken their presence for granted; she vows to better understand humans and create real personal connections. Although the story of that once memorable journey has long ended, a new tale is about to begin.\n\n[Written by MAL Rewrite]",
+      "capa": "https://myanimelist.net/images/anime/1015/138006l.webp",
+      "banner": "https://myanimelist.net/images/anime/1015/138006l.jpg",
+      "generos": [
+        "aventura",
+        "award winning",
+        "drama",
+        "fantasia"
+      ],
+      "status": "Completo",
+      "ano": 2023,
+      "nota": 9.25,
+      "tipo": "TV",
+      "studios": [
+        "Madhouse"
+      ],
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Bouken no Owari ",
+          "aired": "2023-09-29T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 2,
+          "titulo": "Betsu ni Mahou ja Nakutatte... ",
+          "aired": "2023-09-29T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 3,
+          "titulo": "Hito o Korosu Mahou ",
+          "aired": "2023-09-29T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 4,
+          "titulo": "Tamashii no Nemuru Tsuchi ",
+          "aired": "2023-09-29T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 5,
+          "titulo": "Shisha no Gen'ei ",
+          "aired": "2023-10-06T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 6,
+          "titulo": "Mura no Eiyuu ",
+          "aired": "2023-10-13T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 7,
+          "titulo": "Otogibanashi no You na Mono ",
+          "aired": "2023-10-20T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 8,
+          "titulo": "Sousou no Frieren ",
+          "aired": "2023-10-27T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 9,
+          "titulo": "Dantoudai no Aura ",
+          "aired": "2023-11-03T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 10,
+          "titulo": "Tsuyoi Mahou Tsukai ",
+          "aired": "2023-11-10T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 11,
+          "titulo": "Kitagawa Shokoku no Fuyu ",
+          "aired": "2023-11-17T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 12,
+          "titulo": "Honmono no Yuusha ",
+          "aired": "2023-11-24T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 13,
+          "titulo": "Douzoku Ken'o ",
+          "aired": "2023-12-01T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 14,
+          "titulo": "Wakamono no Tokken ",
+          "aired": "2023-12-08T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 15,
+          "titulo": "Yakkai Goto no Nioi ",
+          "aired": "2023-12-15T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 16,
+          "titulo": "Chouju Tomodachi ",
+          "aired": "2023-12-22T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 17,
+          "titulo": "Jaa Genki de ",
+          "aired": "2024-01-05T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 18,
+          "titulo": "Ikkyuu Mahou Tsukai Senbatsu Shiken ",
+          "aired": "2024-01-12T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 19,
+          "titulo": "Nyuunen na Keikaku ",
+          "aired": "2024-01-19T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 20,
+          "titulo": "Hitsuyou na Koroshi ",
+          "aired": "2024-01-26T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 21,
+          "titulo": "Mahou no Sekai ",
+          "aired": "2024-02-02T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 22,
+          "titulo": "Tsugi kara wa Katakidoushi ",
+          "aired": "2024-02-09T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 23,
+          "titulo": "Dungeon Kouryaku ",
+          "aired": "2024-02-16T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 24,
+          "titulo": "Kanpeki na Fukuseitai ",
+          "aired": "2024-02-23T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 25,
+          "titulo": "Chimeiteki na Suki ",
+          "aired": "2024-03-01T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 26,
+          "titulo": "Mahou no Takami ",
+          "aired": "2024-03-08T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 27,
+          "titulo": "Ningen no Jidai ",
+          "aired": "2024-03-15T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 28,
+          "titulo": "Mata Atta Toki ni Hazukashii kara ne ",
+          "aired": "2024-03-22T00:00:00+00:00",
+          "filler": false
+        }
+      ],
+      "totalEpisodios": 28,
+      "source": "jikan",
+      "createdAt": "2026-03-31T00:13:49.638Z",
+      "updatedAt": "2026-03-31T00:13:49.638Z"
+    },
+    {
       "id": "mnduv6wxmldakf16zrn",
       "mal_id": 11061,
       "titulo": "Hunter x Hunter (2011)",
