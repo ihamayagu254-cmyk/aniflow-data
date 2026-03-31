@@ -1,6 +1,177 @@
 {
   "animes": [
     {
+      "id": "mndw8yt37n99mwkku8c",
+      "mal_id": 40748,
+      "titulo": "Jujutsu Kaisen",
+      "titulo_japones": "呪術廻戦",
+      "descricao": "Idly indulging in baseless paranormal activities with the Occult Club, high schooler Yuuji Itadori spends his days at either the clubroom or the hospital, where he visits his bedridden grandfather. However, this leisurely lifestyle soon takes a turn for the strange when he unknowingly encounters a cursed item. Triggering a chain of supernatural occurrences, Yuuji finds himself suddenly thrust into the world of Curses—dreadful beings formed from human malice and negativity—after swallowing the said item, revealed to be a finger belonging to the demon Sukuna Ryoumen, the King of Curses.\n\nYuuji experiences first-hand the threat these Curses pose to society as he discovers his own newfound powers. Introduced to the Tokyo Prefectural Jujutsu High School, he begins to walk down a path from which he cannot return—the path of a Jujutsu sorcerer.\n\n[Written by MAL Rewrite]",
+      "capa": "https://myanimelist.net/images/anime/1171/109222l.webp",
+      "banner": "https://myanimelist.net/images/anime/1171/109222l.jpg",
+      "generos": [
+        "ação",
+        "award winning",
+        "sobrenatural"
+      ],
+      "status": "Completo",
+      "ano": 2020,
+      "nota": 8.51,
+      "tipo": "TV",
+      "studios": [
+        "MAPPA"
+      ],
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Ryoumen Sukuna ",
+          "aired": "2020-10-03T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 2,
+          "titulo": "Jibun no Tame ni ",
+          "aired": "2020-10-10T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 3,
+          "titulo": "Tekkotsu Musume ",
+          "aired": "2020-10-17T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 4,
+          "titulo": "Jutai Taiten ",
+          "aired": "2020-10-24T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 5,
+          "titulo": "Jutai Taiten: Ni ",
+          "aired": "2020-10-31T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 6,
+          "titulo": "Ugo ",
+          "aired": "2020-11-07T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 7,
+          "titulo": "Kyuushuu ",
+          "aired": "2020-11-14T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 8,
+          "titulo": "Taikutsu ",
+          "aired": "2020-11-21T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 9,
+          "titulo": "Yougyo to Sakabachi ",
+          "aired": "2020-11-28T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 10,
+          "titulo": "Mui Tenpen ",
+          "aired": "2020-12-05T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 11,
+          "titulo": "Koroushungu ",
+          "aired": "2020-12-12T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 12,
+          "titulo": "Itsuka no Kimi e ",
+          "aired": "2020-12-19T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 13,
+          "titulo": "Mata Ashita ",
+          "aired": "2020-12-26T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 14,
+          "titulo": "Kyouto Shimai-kou Kouryuu-kai－Dantai-sen ⓪－ ",
+          "aired": "2021-01-16T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 15,
+          "titulo": "Kyouto Shimai-kou Kouryuu-kai－Dantai-sen ①－ ",
+          "aired": "2021-01-23T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 16,
+          "titulo": "Kyoto Shimaikou Kouryuukai: Dantaisen 2 ",
+          "aired": "2021-01-30T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 17,
+          "titulo": "Kyoto Shimaikou Kouryuukai: Dantaisen 3 ",
+          "aired": "2021-02-06T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 18,
+          "titulo": "Kenja ",
+          "aired": "2021-02-13T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 19,
+          "titulo": "Kuro Sen ",
+          "aired": "2021-02-20T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 20,
+          "titulo": "Kikakugai ",
+          "aired": "2021-02-27T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 21,
+          "titulo": "Jujutsu Koushien ",
+          "aired": "2021-03-06T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 22,
+          "titulo": "Kishu Raidou ",
+          "aired": "2021-03-13T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 23,
+          "titulo": "Kishu Raidou: Ni ",
+          "aired": "2021-03-20T00:00:00+00:00",
+          "filler": false
+        },
+        {
+          "numero": 24,
+          "titulo": "Kyouhan ",
+          "aired": "2021-03-27T00:00:00+00:00",
+          "filler": false
+        }
+      ],
+      "totalEpisodios": 24,
+      "source": "jikan",
+      "createdAt": "2026-03-31T00:43:49.954Z",
+      "updatedAt": "2026-03-31T00:43:49.954Z"
+    },
+    {
       "id": "mndv6du2o3vn31zu6tm",
       "mal_id": 52991,
       "titulo": "Sousou no Frieren",
