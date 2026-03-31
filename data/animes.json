@@ -1336,10 +1336,17 @@
           "video_url": "https://drive.google.com/file/d/1UFUUBrm4ImZFwpYwT_C7FS5klOMNazoE/preview",
           "duracao": "",
           "thumbnail": ""
+        },
+        {
+          "numero": 7,
+          "titulo": "Jujutsu Picanha",
+          "video_url": "",
+          "duracao": ""
         }
       ],
       "createdAt": "2026-03-25T00:57:44.504Z",
-      "updatedAt": "2026-03-25T01:03:04.535Z"
+      "updatedAt": "2026-03-31T02:21:57.378Z",
+      "source": "manual"
     }
   ],
   "comments": [
