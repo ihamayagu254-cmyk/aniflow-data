@@ -1,37 +1,6 @@
 {
   "animes": [
     {
-      "id": "mni5u8gkrxbojw5yeh",
-      "mal_id": 40456,
-      "titulo": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
-      "titulo_japones": "劇場版 鬼滅の刃 無限列車編",
-      "descricao": "After a string of mysterious disappearances begin to plague a train, the Demon Slayer Corps' multiple attempts to remedy the problem prove fruitless. To prevent further casualties, the Flame Pillar, Kyoujurou Rengoku, takes it upon himself to eliminate the threat. Accompanying him are some of the Corps' most promising new blood: Tanjirou Kamado, Zenitsu Agatsuma, and Inosuke Hashibira, who all hope to witness the fiery feats of this model demon slayer firsthand.\n\nUnbeknownst to them, the demonic forces responsible for the disappearances have already put their sinister plan in motion. Under this demonic presence, the group must muster every ounce of their willpower and draw their swords to save all two hundred passengers onboard. As things begin to spiral out of control, Tanjirou's resolve and commitment to duty are put to the test.\n\n[Written by MAL Rewrite]",
-      "capa": "https://myanimelist.net/images/anime/1704/106947l.webp",
-      "banner": "https://myanimelist.net/images/anime/1704/106947l.jpg",
-      "generos": [
-        "ação",
-        "sobrenatural"
-      ],
-      "status": "Completo",
-      "ano": 2020,
-      "nota": 8.54,
-      "tipo": "Movie",
-      "studios": [
-        "ufotable"
-      ],
-      "episodios": [
-        {
-          "numero": 1,
-          "titulo": "Episódio 1",
-          "filler": false
-        }
-      ],
-      "totalEpisodios": 1,
-      "source": "jikan",
-      "createdAt": "2026-04-03T00:40:29.916Z",
-      "updatedAt": "2026-04-03T00:40:30.258Z"
-    },
-    {
       "id": "mndw8yt37n99mwkku8c",
       "mal_id": 40748,
       "titulo": "Jujutsu Kaisen",
