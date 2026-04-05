@@ -54,10 +54,17 @@
           "video_url": "https://drive.google.com/file/d/1UFUUBrm4ImZFwpYwT_C7FS5klOMNazoE/preview",
           "duracao": "",
           "thumbnail": ""
+        },
+        {
+          "numero": 7,
+          "titulo": "Jujutsu Kaisen",
+          "video_url": "https://drive.google.com/file/d/1DNEAwwWxItNxec92My-xMThj0Ry3j02l/preview",
+          "duracao": "",
+          "thumbnail": ""
         }
       ],
       "createdAt": "2026-03-25T00:57:44.504Z",
-      "updatedAt": "2026-04-05T21:37:56.716Z",
+      "updatedAt": "2026-04-05T21:49:40.211Z",
       "source": "manual"
     }
   ],
